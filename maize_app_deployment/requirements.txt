@@ -1,6 +1,6 @@
 tensorflow==2.8.0
 opencv-python==4.5.1.48
-pandas>=1.4.1
+pandas==1.4.1
 keras==2.6.0
 streamlit
 Flask==1.1.1
@@ -12,3 +12,4 @@ Werkzeug==0.15.5
 scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
+numpy==1.21.6
